@@ -1,7 +1,6 @@
 void main(){
-  for(int i=0;i<10;i++)
+  for(int i=0;i<=100;i++)
   {
-    print('hi ${i+i}');
-  }
-  print('hi hi hi');
-}
+    print('Hellow ${i}');
+  }}
+ 
