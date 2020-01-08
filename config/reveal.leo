@@ -33,9 +33,15 @@
 </v>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-<v t="leo.20200108232253.1"><vh>亂數分組</vh></v>
+</v>
+<v t="leo.20200108235052.1"><vh>1</vh>
 <v t="leo.20200108232254.1"><vh>查驗考試</vh></v>
-<v t="leo.20200108232400.1"><vh>心得</vh></v>
+</v>
+<v t="leo.20200108235110.1"><vh>2</vh>
+<v t="leo.20200108232253.1"><vh>亂數分組</vh></v>
+</v>
+<v t="leo.20200108235135.1"><vh>3</vh>
+<v t="leo.20200108235141.1"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -112,7 +118,7 @@ Created by [40823216](https://40823216.github.io/cp2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.17">## 各組溫度的轉換
 
-&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/fortemp&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
+&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/temp2&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
 
 
 
@@ -314,7 +320,9 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/watch?v=p1skKrb0dtg"&gt;&lt;/iframe&gt;&lt;/p&gt;
     &lt;/script&gt;</t>
-<t tx="leo.20200108232400.1">## 心得
-</t>
+<t tx="leo.20200108235052.1"></t>
+<t tx="leo.20200108235110.1"></t>
+<t tx="leo.20200108235135.1"></t>
+<t tx="leo.20200108235141.1"></t>
 </tnodes>
 </leo_file>
