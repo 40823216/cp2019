@@ -97,7 +97,7 @@ Created by [40823216](https://40823216.github.io/cp2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.15"># 攝氏華氏溫度轉換
 
-&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/temp1&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
+&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/cf&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
 </t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -112,7 +112,7 @@ Created by [40823216](https://40823216.github.io/cp2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.17">## 各組溫度的轉換
 
-&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/temp2&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
+&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/fortemp&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
 
 
 
