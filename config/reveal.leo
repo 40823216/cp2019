@@ -25,22 +25,22 @@
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20180902120523.14"><vh>導入攝氏華氏溫度轉換程式碼</vh>
+<v t="leo.20180902120523.15"><vh>攝氏華氏溫度轉換</vh></v>
 </v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
+<v t="leo.20180902120523.16"><vh>導入各組溫度的轉換程式碼</vh>
+<v t="leo.20180902120523.17"><vh>各組溫度的轉換</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20180902120523.18"><vh>導入各國國旗繪製程式碼</vh>
+<v t="leo.20180902120523.19"><vh>各國國旗繪製</vh></v>
 </v>
-<v t="leo.20200108235052.1"><vh>1</vh>
+<v t="leo.20200108235052.1"><vh>導入查驗考試影片</vh>
 <v t="leo.20200108232254.1"><vh>查驗考試</vh></v>
 </v>
-<v t="leo.20200108235110.1"><vh>2</vh>
+<v t="leo.20200108235110.1"><vh>導入亂數分組程式碼</vh>
 <v t="leo.20200108232253.1"><vh>亂數分組</vh></v>
 </v>
-<v t="leo.20200108235135.1"><vh>3</vh>
+<v t="leo.20200108235135.1"><vh>心得</vh>
 <v t="leo.20200108235141.1"><vh>心得</vh></v>
 </v>
 </v>
@@ -320,9 +320,21 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/watch?v=p1skKrb0dtg"&gt;&lt;/iframe&gt;&lt;/p&gt;
     &lt;/script&gt;</t>
-<t tx="leo.20200108235052.1"></t>
-<t tx="leo.20200108235110.1"></t>
-<t tx="leo.20200108235135.1"></t>
+<t tx="leo.20200108235052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200108235110.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200108235135.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200108235141.1"></t>
 </tnodes>
 </leo_file>
