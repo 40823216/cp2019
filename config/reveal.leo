@@ -331,7 +331,7 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200109100834.1">## 查驗考試程式
+<t tx="leo.20200109100834.1">## w17查驗考試
 
 
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p1skKrb0dtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
