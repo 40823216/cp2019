@@ -135,7 +135,7 @@ Created by [40823216](https://40823216.github.io/cp2019/content/index.html)
 </t>
 <t tx="leo.20180902120523.19">## 各國國旗繪製
 
-&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/roc_flag&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
+&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823216&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/national_flag&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;&lt;/script&gt;
 
 
 </t>
@@ -316,7 +316,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;!-- ############################## --&gt;&lt;/p&gt;
 &lt;p style="padding-left: 120px;"&gt;&lt;a href="https://dartpad.github.io?id=8463c358dfeb477801b2c42737697e82"&gt;設一乙亂數分組&lt;/a&gt;&lt;/p&gt;
     &lt;/script&gt;</t>
-<t tx="leo.20200108232254.1">## 查驗考試
+<t tx="leo.20200108232254.1">## w17查驗考試
 
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/watch?v=p1skKrb0dtg"&gt;&lt;/iframe&gt;&lt;/p&gt;
     &lt;/script&gt;</t>
@@ -335,6 +335,13 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200108235141.1"></t>
+<t tx="leo.20200108235141.1">##期末心得
+
+在這個學期中，我發現了程式語言的方便性與重要性。從一開始的機械科要學程式嗎?到一定要學好程式。對程式有了興趣。我希望之後能用這學期所學到的，來架設一個自己的網站，可以利用Github倉儲來進行協同，
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
