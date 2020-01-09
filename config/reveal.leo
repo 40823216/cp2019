@@ -318,8 +318,9 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;</t>
 <t tx="leo.20200108232254.1">## w17查驗考試
 
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/watch?v=p1skKrb0dtg"&gt;&lt;/iframe&gt;&lt;/p&gt;
-    &lt;/script&gt;</t>
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p1skKrb0dtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&gt;&lt;/p&gt;
+    &lt;/script&gt;
+</t>
 <t tx="leo.20200108235052.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
