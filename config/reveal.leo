@@ -37,8 +37,11 @@
 <v t="leo.20200108235110.1"><vh>導入亂數分組程式碼</vh>
 <v t="leo.20200108232253.1"><vh>亂數分組</vh></v>
 </v>
-<v t="leo.20200108235135.1"><vh>心得</vh>
-<v t="leo.20200108235141.1"><vh>心得</vh></v>
+<v t="leo.20200109100736.1"><vh>查驗考試</vh>
+<v t="leo.20200109100834.1"><vh>查驗考試影片嵌入碼</vh></v>
+</v>
+<v t="leo.20200109100811.1"><vh>期末心得</vh>
+<v t="leo.20200109100907.1"><vh>期末心得</vh></v>
 </v>
 </v>
 </v>
@@ -78,7 +81,8 @@ Created by [40823216](https://40823216.github.io/cp2019/content/index.html)
 * [各組溫度的轉換](https://40823216.github.io/cp2019/reveal/index.html#/2/1)
 * [各國國旗繪製](https://40823216.github.io/cp2019/reveal/index.html#/2/2)
 * [亂數分組](https://40823216.github.io/cp2019/reveal/index.html#/2/3)
-* [心得](https://40823216.github.io/cp2019/reveal/index.html#/2/4)
+* [w17查驗考試](https://40823216.github.io/cp2019/reveal/index.html#/2/4)
+* [心得](https://40823216.github.io/cp2019/reveal/index.html#/2/5)
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -317,18 +321,23 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200108235135.1">&lt;section data-markdown&gt;
+<t tx="leo.20200109100736.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200108235141.1">##期末心得
+<t tx="leo.20200109100811.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109100834.1">## 查驗考試程式
 
-在這個學期中，我發現了程式語言的方便性與重要性。從一開始的機械科要學程式嗎?到一定要學好程式。對程式有了興趣。我希望之後能用這學期所學到的，來架設一個自己的網站，可以利用Github倉儲來進行協同，
 
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p1skKrb0dtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/script&gt;</t>
+<t tx="leo.20200109100907.1">##期末心得
 
-
-
-</t>
+在這個學期中，我發現了程式語言的方便性與本質。從一開始的機械科要學程式嗎？到一定要學好程式。對程式有了興趣。我希望之後能用這學期所學到的，來架設一個自己的網站，可以利用Github倉儲來進行協同，</t>
 </tnodes>
 </leo_file>
